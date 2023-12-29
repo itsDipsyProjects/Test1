@@ -11,10 +11,22 @@ config_version=5
 [application]
 
 config/name="Test1"
-run/main_scene="res://ground.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="res://first_scene.tscn"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
 project/assembly_name="Test1"
+
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_2="wall1"
+2d_physics/layer_3="wall2"
+2d_physics/layer_4="wall3"
+2d_physics/layer_5="test"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0

@@ -1,1 +1,10 @@
 res://ground.tscn
+res://player.cs
+res://the_camera.gd
+res://Sprite2D.gd
+res://Player_Scene.tscn
+res://first_scene.tscn
+res://CharacterBody2D.gd
+res://Player.gd
+res://CollisionShape2D.gd
+res://RigidBody2D.gd
