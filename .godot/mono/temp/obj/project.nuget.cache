@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "m2Ei3ulghIFFUBy2tn5z6ymQJntB61XXBgxtzX3gRrshp+ZmQLjemxi4sqt7h5po26YxSek0becUaitGiLUQDw==",
+  "dgSpecHash": "vwiFyDb9ejmXwQ9gSSeseImlEJocZIna4uHzjbQajf/n3N7R5Ptxu+QPox6iPpPKEdSJcVBU/lrRzLc8EPDkeQ==",
   "success": true,
-  "projectFilePath": "/home/elliot/Skrivbord/Test1/Test1.csproj",
+  "projectFilePath": "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\Test1.csproj",
   "expectedPackageFiles": [
-    "/home/elliot/.nuget/packages/godot.sourcegenerators/4.2.1/godot.sourcegenerators.4.2.1.nupkg.sha512",
-    "/home/elliot/.nuget/packages/godotsharp/4.2.1/godotsharp.4.2.1.nupkg.sha512",
-    "/home/elliot/.nuget/packages/godotsharpeditor/4.2.1/godotsharpeditor.4.2.1.nupkg.sha512",
-    "/home/elliot/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/home/elliot/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+    "C:\\Users\\mikok\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\mikok\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\mikok\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
   ],
   "logs": []
 }
