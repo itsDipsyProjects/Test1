@@ -33,94 +33,94 @@ position = Vector2(676, 496)
 scale = Vector2(0.765625, 0.789063)
 texture = ExtResource("2_3vs0m")
 
-[node name="StaticBody2D" type="StaticBody2D" parent="."]
+[node name="wall1" type="StaticBody2D" parent="."]
 position = Vector2(562, 423)
 collision_layer = 2
 collision_mask = 0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="wall1"]
 position = Vector2(12, 251)
 shape = SubResource("RectangleShape2D_6uwva")
 debug_color = Color(0.913725, 0.176471, 0.588235, 0.419608)
 
-[node name="StaticBody2D2" type="StaticBody2D" parent="."]
+[node name="egg4" type="StaticBody2D" parent="."]
 collision_layer = 4
 collision_mask = 3
 
-[node name="Sprite2D2" type="Sprite2D" parent="StaticBody2D2"]
+[node name="Sprite2D2" type="Sprite2D" parent="egg4"]
 position = Vector2(891, 367)
 scale = Vector2(5.09375, 5.2935)
 texture = ExtResource("3_dcyh3")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D2"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="egg4"]
 position = Vector2(892, 371)
 shape = SubResource("RectangleShape2D_cuwo7")
 debug_color = Color(0.0901961, 0.647059, 0, 0.419608)
 
-[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D2"]
+[node name="Sprite2D" type="Sprite2D" parent="egg4"]
 position = Vector2(644, 157)
 scale = Vector2(5.09375, 5.2935)
 texture = ExtResource("3_dcyh3")
 
-[node name="StaticBody2D3" type="StaticBody2D" parent="."]
+[node name="egg3" type="StaticBody2D" parent="."]
 collision_layer = 4
 collision_mask = 3
 
-[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D3"]
+[node name="Sprite2D" type="Sprite2D" parent="egg3"]
 position = Vector2(293, 170)
 scale = Vector2(5.09375, 5.2935)
 texture = ExtResource("3_dcyh3")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D3"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="egg3"]
 position = Vector2(293, 174)
 shape = SubResource("RectangleShape2D_cuwo7")
 debug_color = Color(0.0901961, 0.647059, 0, 0.419608)
 
-[node name="StaticBody2D4" type="StaticBody2D" parent="."]
+[node name="egg2" type="StaticBody2D" parent="."]
 collision_layer = 4
 collision_mask = 3
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D4"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="egg2"]
 position = Vector2(644, 161)
 shape = SubResource("RectangleShape2D_cuwo7")
 debug_color = Color(0.0901961, 0.647059, 0, 0.419608)
 
-[node name="StaticBody2D5" type="StaticBody2D" parent="."]
+[node name="egg1" type="StaticBody2D" parent="."]
 collision_layer = 4
 collision_mask = 3
 
-[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D5"]
+[node name="Sprite2D" type="Sprite2D" parent="egg1"]
 position = Vector2(184, 398)
 scale = Vector2(5.09375, 5.2935)
 texture = ExtResource("3_dcyh3")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D5"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="egg1"]
 position = Vector2(184, 401.5)
 shape = SubResource("RectangleShape2D_cuwo7")
 debug_color = Color(0.0901961, 0.647059, 0, 0.419608)
 
-[node name="StaticBody2D6" type="StaticBody2D" parent="."]
+[node name="wall2" type="StaticBody2D" parent="."]
 position = Vector2(562, 423)
 collision_layer = 2
 collision_mask = 0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D6"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="wall2"]
 position = Vector2(10, -409)
 shape = SubResource("RectangleShape2D_6uwva")
 debug_color = Color(0.913725, 0.176471, 0.588235, 0.419608)
 
-[node name="StaticBody2D7" type="StaticBody2D" parent="."]
+[node name="wall4" type="StaticBody2D" parent="."]
 collision_layer = 16
 collision_mask = 0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D7"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="wall4"]
 position = Vector2(-9, 339)
 shape = SubResource("RectangleShape2D_w7v03")
 
-[node name="StaticBody2D8" type="StaticBody2D" parent="."]
+[node name="wall5" type="StaticBody2D" parent="."]
 collision_layer = 16
 collision_mask = 0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D8"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="wall5"]
 position = Vector2(1156, 332)
 shape = SubResource("RectangleShape2D_w7v03")

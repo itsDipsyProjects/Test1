@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\Test1.csproj": {}
+    "/home/elliot/Skrivbord/Test1/Test1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\Test1.csproj": {
+    "/home/elliot/Skrivbord/Test1/Test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\Test1.csproj",
+        "projectUniqueName": "/home/elliot/Skrivbord/Test1/Test1.csproj",
         "projectName": "Test1",
-        "projectPath": "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\Test1.csproj",
-        "packagesPath": "C:\\Users\\mikok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikok\\OneDrive\\Desktop\\Test1\\.godot\\mono\\temp\\obj\\",
+        "projectPath": "/home/elliot/Skrivbord/Test1/Test1.csproj",
+        "packagesPath": "/home/elliot/.nuget/packages/",
+        "outputPath": "/home/elliot/Skrivbord/Test1/.godot/mono/temp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mikok\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/elliot/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,12 +62,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }
