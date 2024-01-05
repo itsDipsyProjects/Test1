@@ -49,3 +49,4 @@ C:\Users\mikok\OneDrive\Desktop\Test1\.godot\mono\temp\obj\Debug\refint\Test1.dl
 C:\Users\mikok\OneDrive\Desktop\Test1\.godot\mono\temp\obj\Debug\Test1.pdb
 C:\Users\mikok\OneDrive\Desktop\Test1\.godot\mono\temp\obj\Debug\Test1.genruntimeconfig.cache
 C:\Users\mikok\OneDrive\Desktop\Test1\.godot\mono\temp\obj\Debug\ref\Test1.dll
+C:\Users\mikok\OneDrive\Desktop\Test1\.godot\mono\temp\obj\Debug\Test1.sourcelink.json

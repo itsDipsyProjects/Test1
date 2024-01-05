@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703880366
+::res://::1704474824
 CharacterBody2D.gd::GDScript::-1::1703878536::0::1::::<>CharacterBody2D<>::
-first_scene.tscn::PackedScene::3988209449769478466::1703880347::0::1::::<><>::uid://c8xtacx2px28j::::res://icon.svg<>uid://bbfocyrmsr3by::::res://art/Objects/Egg_item.png<>res://CharacterBody2D.gd
+first_scene.tscn::PackedScene::3988209449769478466::1703880373::0::1::::<><>::uid://c8xtacx2px28j::::res://icon.svg<>uid://bbfocyrmsr3by::::res://art/Objects/Egg_item.png<>res://CharacterBody2D.gd
 icon.svg::CompressedTexture2D::7137707660472148127::1703854680::1703854680::1::::<><>::
 ::res://art/::1703854680
 ::res://art/Characters/::1703854680
